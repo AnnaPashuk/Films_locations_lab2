@@ -1,0 +1,212 @@
+CRC: 0xCF86E85D  File: locations.list  Date: Fri Dec 22 00:00:00 2017
+
+Copyright 1991-2017 The Internet Movie Database Ltd. All rights reserved.
+
+http://www.imdb.com
+
+locations.list
+
+2017-12-18
+
+-----------------------------------------------------------------------------
+
+LOCATIONS LIST
+==============
+"#1 Single" (2006)					Los Angeles, California, USA
+"#1 Single" (2006)					New York City, New York, USA
+"#15SecondScare" (2015) {It's Me Jessica (#1.5)}	Coventry, West Midlands, England, UK
+"#15SecondScare" (2015) {Who Wants to Play with the Rabbit? (#1.2)}	West Hills, California, USA	(interior scwnes)
+"#15SecondScare" (2015) {Who Wants to Play with the Rabbit? (#1.2)}	West Hills, California, USA	(interior scenes)
+"#2WheelzNHeelz" (2017)					Nashville, Tennessee, USA
+"#ATown" (2014)						Spiderhouse Cafe, Austin, Texas, USA
+"#ATown" (2014)						Love Balls, Austin, Texas, USA
+"#ATown" (2014)						Jo's Cafe, San Marcos, Texas, USA
+"#ATown" (2014)						Town Lake, Austin, Texas, USA
+"#ATown" (2014)						Texas Rowing Center, Austin, Texas, USA
+"#ATown" (2014)						Mount Bonnell, Austin, Texas, USA
+"#ATown" (2014)						Alamo Drafthouse Ritz, Austin, Texas, USA
+"#ATown" (2014)						Red's Porch, Austin, Texas, USA
+"#ATown" (2014)						Barton Springs, Austin, Texas, USA
+"#ActorsLife" (2016)					New York City, New York, USA
+"#BreakfastClub" (2017)					New York City, New York, USA
+"#BreakfastClub" (2017)					Los Angeles, California, USA
+"#ByMySide" (2012)					Alessandria, Piedmont, Italy	(italy)
+"#CaptchaLA" (2017)					Los Angeles, California, USA
+"#DayOff" (2013)					New York City, New York, USA
+"#DearGeorgette" (2015)					New York City, New York, USA
+"#Elmira" (2014)					Elmira, New York, USA
+"#Fuga" (2016)						Barra da Tijuca, Rio de Janeiro, Rio de Janeiro, Brazil	(location)
+"#Hashtag Travel UK" (2017)				England, UK	(on location)
+"#Hashtag Travel" (2017)				Hudson Valley, New York, USA	(on location)
+"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}	Cold Spring, New York, USA
+"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}	Beacon, New York, USA
+"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}	Fishkill, New York, USA
+"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}	Wappingers Falls, New York, USA
+"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}	Poughkeepsie, New York, USA
+"#Hashtag: The Series" (2013)				Chicago, Illinois, USA
+"#Hashtag: The Series" (2013) {#WhatWouldSiriDo - (2014) (#2.8)}	Chicago, Illinois, USA
+"#KateConwayisaJerk" (2015)				Toronto, Ontario, Canada
+"#KateConwayisaJerk" (2015) {Helpful Tips for Getting Over a Breakup (#1.2)}	Remark's Bar & Grill - 1026 Coxwell Ave, Toronto, Ontario, Canada	(Bar scene)
+"#KateConwayisaJerk" (2015) {Helping Friends (#1.1)}	Gooderham Building, 49 Wellington Street East, Toronto, Ontario, Canada	(German tourists scene)
+"#KateConwayisaJerk" (2015) {Helping Keep Your Boyfriend Company (#1.3)}	Russell Winkelaar's flat, Toronto, Ontario, Canada	(Tamara's flat)
+"#KateConwayisaJerk" (2015) {Helping Miriam Pultro Around Toronto (#1.5)}	Broadview Avenue, Toronto, Ontario, Canada	(street scenes)
+"#KillTorrey" (2016)					Burbank, California, USA	(Burbank Krva Maga Dojo)
+"#LakeShow" (2012)					El Segundo, California, USA
+"#LawstinWoods" (2013)					Erin, New York, USA
+"#LawstinWoods" (2013)					Corning, New York, USA
+"#LawstinWoods" (2013) {The Case of the Case (#1.5)}	Erin, New York, USA
+"#LawstinWoods" (2013) {The Great Divide (#1.4)}	Erin, New York, USA
+"#LawstinWoods" (2013) {The Great Divide (#1.4)}	Corning, New York, USA
+"#LawstinWoods" (2013) {The Happening (#1.3)}		Erin, New York, USA
+"#LawstinWoods" (2013) {The Happening (#1.3)}		Corning, New York, USA
+"#LawstinWoods" (2013) {The Happening (#1.3)}		Poultney, Vermont, USA
+"#LdnOnt" (2012)					London, Ontario, Canada	(studio)
+"#LoveMyRoomie" (2016)					New York, USA	(on location)
+"#LoveMyRoomie" (2016) {S2. E1 (#2.1)}			Brooklyn, New York, USA
+"#Millennials" (2015)					Los Angeles, California, USA	(Steve and Debrah's neighborhood)
+"#Mittelfingerspitzengef�hl" (2017)			Germany	(studio)
+"#Mittelfingerspitzengef�hl" (2017)			The Netherlands	(location)
+"#MommasGotBars" (2015)					Brooklyn, New York, USA	(Young Son's apartment)
+"#Murder" (2017)					Knoxville, Tennessee, USA
+"#MyCurrentSituation: Atlanta" (2016)			Atlanta Georgia, USA
+"#MyCurrentSituation: Atlanta" (2016)			Memphis, Tennessee, USA
+"#NerdNoise" (2012)					Los Angeles, California, USA	(on location)
+"#Nightstrife" (2014)					Chicago, Illinois, USA
+"#OscarTheOuch" (2013)					Hollywood, California, USA
+"#QuieroEseLook!" (2013)				Rio Grande, Puerto Rico	(studio)
+"#SmurTv" (2016)					Roanoke, Virginia, USA
+"#SmurTv" (2016)					Charlotte, North Carolina, USA
+"#SmurTv" (2016)					Atlanta, Georgia, USA
+"#SpongeyLeaks" (2016)					Northridge, California, USA	(location)
+"#SpongeyLeaks" (2016) {Leak 2.1: in medias res: Fraudulent Eviction Notices & Bulletproof Vests: Barb's 2nd Abuser (#1.4)}	Northridge, California, USA	(location)
+"#TanCosmo" (2014)					Buenos Aires, Federal District, Argentina
+"#Troublemakers" (2013)					Wilmington, Delaware, USA	(location)
+"#VanLifeAttila" (2016)					Canada	(Wells, BC/Barkerville)
+"#VanLifeAttila" (2016)					California, USA	(Venice Beach)
+"#VanLifeAttila" (2016)					Europe	(Paris, Hungary)
+"Knots Landing" (1979) {Daniel (#4.2)}			Stage 4, Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA
+"Knots Landing" (1979) {Day of the Assassin (#14.17)}	Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA
+"Knots Landing" (1979) {Day of the Assassin (#14.17)}	Stage 4, Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA
+"Knots Landing" (1979) {Dead But Not Buried (#12.4)}	Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA
+"Koledzicom po svijetu" (2007)				Australia
+"Koledzicom po svijetu" (2007)				Fiji
+"Koledzicom po svijetu" (2007)				Finland
+"Koledzicom po svijetu" (2007)				Greenland
+"Koledzicom po svijetu" (2007)				India
+"Koledzicom po svijetu" (2007)				Japan
+"Koledzicom po svijetu" (2007)				Kenya
+"Koledzicom po svijetu" (2007)				Nepal
+"Koledzicom po svijetu" (2007)				New Zealand
+"Kolej Sinifi" (2018)					Ankara, Turkey
+"Kollektsiya" (2006)					St. Petersburg, Russia
+"Kolmannen korvapuusti" (1993)				MTV3 studios, Pasila, Helsinki, Finland	(studio)
+"Koltuk sevdasi" (2001)					Istanbul, Turkey
+"Kolumbowie" (1970)					Poland
+"Kom Pa Ya Bath" (2014)					Thailand
+"Kombucha Catch-Up" (2017) {The BFA (#1.1)}		Marymount Manhattan College, New York City, New York, USA
+"Kombucha Catch-Up" (2017) {The BFA (#1.1)}		Fashion Institute of Technology, 227 W 27th St, New York, NY 10001
+"Komediantka" (1988)					Kalisz, Wielkopolskie, Poland
+"Komediantka" (1988)					L�dz, L�dzkie, Poland
+"Komediantka" (1988)					Warsaw, Mazowieckie, Poland
+"Komedy Kapers" (1956)					NBC Studios - 1500 N. Vine St., Hollywood, Los Angeles, California, USA	(studio)
+"Kommissar Rex" (1994) {Der Tod der alten Damen (#1.4)}	Blindengasse, Vienna, Austria	(Cafe where Herbert Schwarz was playing)
+"Kommissar Rex" (1994) {Der erste Preis (#1.10)}	Akademischen Gymnasium Wien, Beethovenplatz 1, Vienna, Austria	(School)
+"Kommissar Rex" (1994) {Der erste Preis (#1.10)}	Stadtpark, Vienna, Austria	(Initial scene)
+"Kommissar Rex" (1994) {Der erste Preis (#1.10)}	Weihburggasse 18, Vienna, Austria	(Thomas Hofmann's apartment)
+"Kommissar Rex" (1994) {Der erste Preis (#1.10)}	Blutgasse, Vienna, Austria	(A little street took by Christl Strobl)
+"Kommissar Rex" (1994) {Der erste Preis (#1.10)}	Spitalgasse 4, Vienna, Austria	(Police station interior scenes, stairs, corridor, Moser's team office)
+"Kommissar Rex" (1994) {Der erste Preis (#1.10)}	Buchfeldgasse 4, Vienna, Austria	(Gerti Strobl's apartment)
+"Kongehuset" (2002)					Hanstholm, Jylland, Denmark
+"Kongehuset" (2002)					K�benhavns Hovedbaneg�rd, Copenhagen, Denmark
+"Kongehuset" (2002)					Namur, Belgium
+"Kongehuset" (2002)					Place de Palais, Brussels, Brussels-Capital, Belgium
+"Kongehuset" (2002)					R�dhuspladsen, Copenhagen, Denmark
+"Kongehuset" (2002)					Tivoli, Copenhagen, Denmark
+"Kongen af Danmark" (2017)				Copenhagen, Denmark
+"Kongen af Danmark" (2017)				Paris, �le-de-France, France
+"Kongen af Danmark" (2017)				Greenland
+"Kongen af Danmark" (2017)				Washington, District of Columbia, USA
+"Kongen af Danmark" (2017)				UK
+"Kongo" (1997)						Chimanimani, Eastern Highlands, Zimbabwe
+"Kosatka" (2015)					Kostroma, Russia	(on location)
+"Kosatka" (2015)					Moscow, Russia
+"Koschwitz" (2000)					Berlin, Germany
+"Kosketuksessa" (2007)					Akun Tehdas, Yl�j�rvi, Finland
+"Kosmicheskie shlyukhi iz kosmosa" (2012)		Kopeysk, Chelyabinsk Oblast, Russia	(studio)
+"Kosmoo" (2016)						Veere, Zeeland, Netherlands	(street scenes)
+"Kosmoo" (2016)						Grobbendonk, Belgium	(on location)
+"Kossuthkifli" (2015)					Hungary
+"Kossuthkifli" (2015)					Sopron, Hungary
+"Kossuthkifli" (2015)					K�szeg, Hungary
+"Kossuthkifli" (2015)					Szentendre, Hungary
+"Kota Life Crisis" (2014)				Johannesburg, South Africa	(Global Access Studios)
+"Kothao Keu Nei" (1990)					Bangladesh Television Studios, Dhaka, Bangladesh	(studio)
+"Kotikatu" (1995)					Helsinki, Finland
+"Kottan ermittelt" (1976) {Der Geburtstag (#1.2)}	Kirche Mariae Schmerzen, Reinischgasse/Stefan-Esders-Platz, Grinzing, Vienna, Austria
+"Kottan ermittelt" (1976) {Der Geburtstag (#1.2)}	Langenlebarn, Tulln an der Donau, Lower Austria, Austria
+"Kottan ermittelt" (1976) {Die Bef�rderung (#3.2)}	Airport Vienna-Schwechat, Schwechat, Lower Austria, Austria
+"Kottan ermittelt" (1976) {Hartlgasse 16a (#1.1)}	Augarten, Vienna, Austria
+"Kottan ermittelt" (1976) {Nachttankstelle (#2.2)}	Floridsdorfer Br�cke, Vienna, Austria
+"Kottan ermittelt" (1976) {Wien Mitte (#2.1)}		Naschmarkt, Vienna 6, Austria
+"Kount Kracula's Review Showcase" (2013)		Toronto, Ontario, Canada	(studio)
+"Kourtney & Khlo� Take Miami" (2009)			South Beach, Miami Beach, Florida, USA
+"Kourtney & Khlo� Take Miami" (2009) {Back in Miami (#2.1)}	Los Angeles, California, USA
+"Kourtney & Khlo� Take Miami" (2009) {Back in Miami (#2.1)}	Miami, Florida, USA
+"Kourtney & Khlo� Take Miami" (2009) {Scotts-o-phrenia (#2.3)}	Chicago, Illinois, USA
+"Kourtney & Kim Take New York" (2011)			Los Angeles, California, USA
+"Kourtney & Kim Take New York" (2011)			Minnetonka, Minnesota, USA
+"Kourtney & Kim Take New York" (2011)			New York City, New York, USA
+"Kova laji" (2003)					Espoo, Finland
+"Kova laji" (2003)					Helsinki, Finland
+"Kova laji" (2003)					Kallb�dan, Porkkala, Kirkkonummi, Finland
+"Kova laji" (2003)					Kuopio, Finland
+"Kova laji" (2003)					Porvoo, Finland
+"Kova laji" (2003)					Santahamina, Helsinki, Finland
+"Kova laji" (2003)					Sodankyl�, Finland
+"Kova laji" (2003)					Suomenlinna, Helsinki, Finland
+"Kova laji" (2003)					Tampere, Finland
+"Kova laji" (2003)					Turku, Finland
+"Kovaa maata" (1994)					Askola, Finland
+"Kovaa maata" (1994)					Helsinki, Finland
+"Kovarnye Igry" (2016)					Minsk, Belarus
+"Kowalski" (2015)					Los Angeles, California, USA	(studio)
+"Koya Webb Health & Yoga" (2017)			Beverly Hills, California, USA	(On Location)
+"Ko�um benim" (2002)					Istanbul, Turkey
+"Ko�perasiestories" (1983)				Culinan, South Africa
+"Krabb� zoekt Picasso" (2017)				Paris, France
+"Krabb� zoekt Picasso" (2017)				Malaga, Spain
+"Krabb� zoekt Picasso" (2017)				Barcelona, Spain
+"Kraft Television Theatre" (1947) {The Atherton Boy (#7.20)}	New York City, New York, USA
+"Kristin" (2001) {The Secret (#1.13)}			Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA	(studio)
+"Kristoff und Schloff" (2014)				Vancouver, British Columbia, Canada
+"Kristy Super Hero" (2014)				Los Angeles, California, USA	(studio)
+"Kristy" (2012)						Santa Monica, California, USA
+"Krivoe zerkalo" (2003)					Moscow, Russia	(studio)
+"Krivoe zerkalo" (2003)					Gosudarstvennyy Muzykalnyy Teatr Natsionalnogo Iskusstva Pod Ruk. Vladimira Nazarova - Olimpiyskaya derevnya street 1, Moscow, Russia	(studio)
+"Krizis nezhnogo vozrasta" (2016)			Moscow, Russia	(location)
+"Krog" (2010)						Hollywood, Los Angeles, California, USA
+"Kroll Show" (2013) {The Commonwealth Games (#3.8)}	5901 Melrose Ave., Los Angeles, California, USA	(pawn shop exterior)
+"Kronehit Charts" (2005)				Wien, Austria	(studio)
+"Kronprinsessan" (2006)					Stockholm, Stockholms l�n, Sweden
+"Kronzucker unterwegs" (2013)				Turkey
+"Kroongetuige" (2017) {(#1.1)}				�regrund, Uppsala l�n, Sweden
+"Krotitele dluhu" (2009)				Czech Republic
+"Krovim Krovim" (1982)					Tel Aviv, Israel
+"Krude TV" (2013)					Hamburg, Germany
+"Kruger Safari" (2009)					Kruger National Park, South Africa
+"Kruispad" (2008)					South Africa
+"Krupp - Eine deutsche Familie" (2009)			Berlin, Germany
+"Krupp - Eine deutsche Familie" (2009)			Duisburg, North Rhine-Westphalia, Germany
+"Krupp - Eine deutsche Familie" (2009)			Essen, North Rhine-Westphalia, Germany
+"Krupp - Eine deutsche Familie" (2009)			Movie Park Germany, Kirchhellen, Bottrop, North Rhine-Westphalia, Germany
+"Krupp - Eine deutsche Familie" (2009)			Premnitz, Brandenburg, Germany
+"Krupp - Eine deutsche Familie" (2009)			Salzburg, Salzburg, Austria
+"Krv nije voda" (2008)					Sarajevo, Bosnia-Herzegovina
+"Kryat Kivun" (1990)					Israel
+"Kryminalni" (2004)					Warsaw, Mazowieckie, Poland
+"Kuokkavieras Kataja" (2016) {Rauma (#1.3)}		Kuuskajaskari, Rauma, Finland
+"Kuokkavieras Kataja" (2016) {Somero (#1.9)}		Somero, Finland
+"Kuolema savolaiseen tapaan" (1983)			Oinasj�rvi, Sonkaj�rvi, Finland
+"Kuorosota" (2009)					Espoo, Finland
+"Kuorosota" (2009)					Heinola, Finland
+"Kuorosota" (2009)					Helsinki, Finland
