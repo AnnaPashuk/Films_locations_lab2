@@ -16,7 +16,8 @@ The user must write the year of films he/she wants to see and coordinates: latit
 <div> defines a division or a section
  
 ### The example of module work
-![](
+![ ](screenshot.PNG)
+![ ](map_screen.jpg)
 
 The map gives us information about given location, shows it on the map. Also, it shows the nearest films which were filmed in given year. On the third layer we can see 5 biggest cities in the world on the map.
 
