@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c69c0edc5eed4bcfa35e20e3641683c2 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_c69c0edc5eed4bcfa35e20e3641683c2" ></div>
+        
+</body>
+<script>    
+    
+            var map_c69c0edc5eed4bcfa35e20e3641683c2 = L.map(
+                "map_c69c0edc5eed4bcfa35e20e3641683c2",
+                {
+                    center: [48.3794327, 31.1655807],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c80e377c919946819888023c00bef78f = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_c69c0edc5eed4bcfa35e20e3641683c2);
+        
+    
+            var feature_group_8af7242aaa4340c59f18d216f8083dfd = L.featureGroup(
+                {}
+            ).addTo(map_c69c0edc5eed4bcfa35e20e3641683c2);
+        
+    
+            var marker_83d338ac0530442f8c4e0445c083e6aa = L.marker(
+                [63.2467777, 25.9209164],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_d06473a58bec4cc596951462b93a3f92 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_83d338ac0530442f8c4e0445c083e6aa.setIcon(icon_d06473a58bec4cc596951462b93a3f92);
+        
+    
+        var popup_5ded7e7af95e4049813904fa68e9152d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_57eca290e3904aaa90eca6f4e7059b71 = $(`<div id="html_57eca290e3904aaa90eca6f4e7059b71" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_5ded7e7af95e4049813904fa68e9152d.setContent(html_57eca290e3904aaa90eca6f4e7059b71);
+        
+
+        marker_83d338ac0530442f8c4e0445c083e6aa.bindPopup(popup_5ded7e7af95e4049813904fa68e9152d)
+        ;
+
+        
+    
+    
+            var marker_9bd796f851a84f4da28bd58aab98f90b = L.marker(
+                [1.4419683, 38.4313975],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_668951382fce434cb0ca165cabe2893b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9bd796f851a84f4da28bd58aab98f90b.setIcon(icon_668951382fce434cb0ca165cabe2893b);
+        
+    
+        var popup_95f5daec5740416fa0738446bbeb8f4f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bfb6dd1efe8044c2b093edc2abdac732 = $(`<div id="html_bfb6dd1efe8044c2b093edc2abdac732" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_95f5daec5740416fa0738446bbeb8f4f.setContent(html_bfb6dd1efe8044c2b093edc2abdac732);
+        
+
+        marker_9bd796f851a84f4da28bd58aab98f90b.bindPopup(popup_95f5daec5740416fa0738446bbeb8f4f)
+        ;
+
+        
+    
+    
+            var marker_13296404716f4fe9a823b31af141a133 = L.marker(
+                [22.3511148, 78.6677428],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_2c5390f05e654bc19a3ae70938076ffc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_13296404716f4fe9a823b31af141a133.setIcon(icon_2c5390f05e654bc19a3ae70938076ffc);
+        
+    
+        var popup_4f7882d2dddb45a8b70b0e68ec663e16 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ce7dd086849f478f8cf3af1575da6fa3 = $(`<div id="html_ce7dd086849f478f8cf3af1575da6fa3" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_4f7882d2dddb45a8b70b0e68ec663e16.setContent(html_ce7dd086849f478f8cf3af1575da6fa3);
+        
+
+        marker_13296404716f4fe9a823b31af141a133.bindPopup(popup_4f7882d2dddb45a8b70b0e68ec663e16)
+        ;
+
+        
+    
+    
+            var marker_8e118eaead0047cda9904aede5ab0bdf = L.marker(
+                [28.1083929, 84.0917139],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_520286b8dfe141c783216be1d91d460e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_8e118eaead0047cda9904aede5ab0bdf.setIcon(icon_520286b8dfe141c783216be1d91d460e);
+        
+    
+        var popup_1e5accc10e60452d90da2e14494ee7d1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_da8b7cbd15684c079350b6dc581a36a7 = $(`<div id="html_da8b7cbd15684c079350b6dc581a36a7" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_1e5accc10e60452d90da2e14494ee7d1.setContent(html_da8b7cbd15684c079350b6dc581a36a7);
+        
+
+        marker_8e118eaead0047cda9904aede5ab0bdf.bindPopup(popup_1e5accc10e60452d90da2e14494ee7d1)
+        ;
+
+        
+    
+    
+            var marker_712fcd31977548c2997c9f3341bb5837 = L.marker(
+                [77.6192349, -42.8125967],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_1db74092f7764790966ba25c13eb1604 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_712fcd31977548c2997c9f3341bb5837.setIcon(icon_1db74092f7764790966ba25c13eb1604);
+        
+    
+        var popup_13bc2456ed2848c987e235c60f51b4be = L.popup({"maxWidth": "100%"});
+
+        
+            var html_95cbe8a1f15a4f6083242a6c726ddc81 = $(`<div id="html_95cbe8a1f15a4f6083242a6c726ddc81" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_13bc2456ed2848c987e235c60f51b4be.setContent(html_95cbe8a1f15a4f6083242a6c726ddc81);
+        
+
+        marker_712fcd31977548c2997c9f3341bb5837.bindPopup(popup_13bc2456ed2848c987e235c60f51b4be)
+        ;
+
+        
+    
+    
+            var marker_e3cb6d9b0e654cc59a535cbff01ea8d1 = L.marker(
+                [36.5748441, 139.2394179],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_e2831e7abfe94da6a5d598c74178b71f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e3cb6d9b0e654cc59a535cbff01ea8d1.setIcon(icon_e2831e7abfe94da6a5d598c74178b71f);
+        
+    
+        var popup_25939cbb25bf45d3abae3a35951ffd3b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_dfd9ac3e943c4e82a02317f82856b19e = $(`<div id="html_dfd9ac3e943c4e82a02317f82856b19e" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_25939cbb25bf45d3abae3a35951ffd3b.setContent(html_dfd9ac3e943c4e82a02317f82856b19e);
+        
+
+        marker_e3cb6d9b0e654cc59a535cbff01ea8d1.bindPopup(popup_25939cbb25bf45d3abae3a35951ffd3b)
+        ;
+
+        
+    
+    
+            var marker_7257712a8c7a4938ac93704bf329d7a1 = L.marker(
+                [-24.7761086, 134.755],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_730442a03ba941d4804784317743fa64 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_7257712a8c7a4938ac93704bf329d7a1.setIcon(icon_730442a03ba941d4804784317743fa64);
+        
+    
+        var popup_46a1a728d1674b259b314fc13d41c8bf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_32987496df774b648ea7bee142d87d74 = $(`<div id="html_32987496df774b648ea7bee142d87d74" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_46a1a728d1674b259b314fc13d41c8bf.setContent(html_32987496df774b648ea7bee142d87d74);
+        
+
+        marker_7257712a8c7a4938ac93704bf329d7a1.bindPopup(popup_46a1a728d1674b259b314fc13d41c8bf)
+        ;
+
+        
+    
+    
+            var marker_41b45d61b7cd4a41b3a011a87e16685c = L.marker(
+                [-18.1239696, 179.0122737],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_2ce7de5399bb4e30962fd6cb120e1fa6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_41b45d61b7cd4a41b3a011a87e16685c.setIcon(icon_2ce7de5399bb4e30962fd6cb120e1fa6);
+        
+    
+        var popup_b7aa24e5a5aa4733ae5a78cc1a331d2f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_037081b270b84a7a8eed9f1c8ab79810 = $(`<div id="html_037081b270b84a7a8eed9f1c8ab79810" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_b7aa24e5a5aa4733ae5a78cc1a331d2f.setContent(html_037081b270b84a7a8eed9f1c8ab79810);
+        
+
+        marker_41b45d61b7cd4a41b3a011a87e16685c.bindPopup(popup_b7aa24e5a5aa4733ae5a78cc1a331d2f)
+        ;
+
+        
+    
+    
+            var marker_996be89d6ec1458dbea873ecbc9b5a77 = L.marker(
+                [-41.5000831, 172.8344077],
+                {}
+            ).addTo(feature_group_8af7242aaa4340c59f18d216f8083dfd);
+        
+    
+            var icon_4640512e93bd43caa6eac005abe02823 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_996be89d6ec1458dbea873ecbc9b5a77.setIcon(icon_4640512e93bd43caa6eac005abe02823);
+        
+    
+        var popup_847152a7871a47c8adbbeac92fde28af = L.popup({"maxWidth": "100%"});
+
+        
+            var html_030cee6a8432418485be2907a403e0c4 = $(`<div id="html_030cee6a8432418485be2907a403e0c4" style="width: 100.0%; height: 100.0%;">"Koledzicom po svijetu"</div>`)[0];
+            popup_847152a7871a47c8adbbeac92fde28af.setContent(html_030cee6a8432418485be2907a403e0c4);
+        
+
+        marker_996be89d6ec1458dbea873ecbc9b5a77.bindPopup(popup_847152a7871a47c8adbbeac92fde28af)
+        ;
+
+        
+    
+    
+            var feature_group_f352db4da9b145a089c4420acfcbec43 = L.featureGroup(
+                {}
+            ).addTo(map_c69c0edc5eed4bcfa35e20e3641683c2);
+        
+    
+            var circle_marker_3b813a401e704714913d3fa56139e476 = L.circleMarker(
+                [35.689487, 139.691706],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(feature_group_f352db4da9b145a089c4420acfcbec43);
+        
+    
+        var popup_97afae6ddd144e1096c4dd070a56de0f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_262f638162d54163b97ba772e1588903 = $(`<div id="html_262f638162d54163b97ba772e1588903" style="width: 100.0%; height: 100.0%;">Tokyo</div>`)[0];
+            popup_97afae6ddd144e1096c4dd070a56de0f.setContent(html_262f638162d54163b97ba772e1588903);
+        
+
+        circle_marker_3b813a401e704714913d3fa56139e476.bindPopup(popup_97afae6ddd144e1096c4dd070a56de0f)
+        ;
+
+        
+    
+    
+            var circle_marker_6adb6843881542718cb1666d8bac738a = L.circleMarker(
+                [21.566381, 73.220507],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(feature_group_f352db4da9b145a089c4420acfcbec43);
+        
+    
+        var popup_f04119ac2abd4cec8103580ddd0c27f6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_755ec47d4fe44966a793ec0e05220add = $(`<div id="html_755ec47d4fe44966a793ec0e05220add" style="width: 100.0%; height: 100.0%;">Dehli</div>`)[0];
+            popup_f04119ac2abd4cec8103580ddd0c27f6.setContent(html_755ec47d4fe44966a793ec0e05220add);
+        
+
+        circle_marker_6adb6843881542718cb1666d8bac738a.bindPopup(popup_f04119ac2abd4cec8103580ddd0c27f6)
+        ;
+
+        
+    
+    
+            var circle_marker_9e2439ef023f4fbf8db56472d2a2ee7c = L.circleMarker(
+                [31.230416, 121.473701],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(feature_group_f352db4da9b145a089c4420acfcbec43);
+        
+    
+        var popup_1aefc2f5e53240c1a8d70fc0a26d34cd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ddd7a7fa29e44f2aa85344b919412752 = $(`<div id="html_ddd7a7fa29e44f2aa85344b919412752" style="width: 100.0%; height: 100.0%;">Shanghai</div>`)[0];
+            popup_1aefc2f5e53240c1a8d70fc0a26d34cd.setContent(html_ddd7a7fa29e44f2aa85344b919412752);
+        
+
+        circle_marker_9e2439ef023f4fbf8db56472d2a2ee7c.bindPopup(popup_1aefc2f5e53240c1a8d70fc0a26d34cd)
+        ;
+
+        
+    
+    
+            var circle_marker_ed9a0dd9d4b64cc2b81ad61e8e7120ff = L.circleMarker(
+                [19.075984, 72.877656],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(feature_group_f352db4da9b145a089c4420acfcbec43);
+        
+    
+        var popup_48c53af20e5d4acba9c22b0736970288 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e1f6210da18c42b084f638bbaf04ce5f = $(`<div id="html_e1f6210da18c42b084f638bbaf04ce5f" style="width: 100.0%; height: 100.0%;">Mumbai</div>`)[0];
+            popup_48c53af20e5d4acba9c22b0736970288.setContent(html_e1f6210da18c42b084f638bbaf04ce5f);
+        
+
+        circle_marker_ed9a0dd9d4b64cc2b81ad61e8e7120ff.bindPopup(popup_48c53af20e5d4acba9c22b0736970288)
+        ;
+
+        
+    
+    
+            var circle_marker_4b090f93fbaf4b208736d29cfb70b999 = L.circleMarker(
+                [-23.55052, -46.633309],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(feature_group_f352db4da9b145a089c4420acfcbec43);
+        
+    
+        var popup_5033e5584d0d4542b8f363a6dab8832a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_dd189e0721794950aa5c61cc6d475edb = $(`<div id="html_dd189e0721794950aa5c61cc6d475edb" style="width: 100.0%; height: 100.0%;">SãoPaulo</div>`)[0];
+            popup_5033e5584d0d4542b8f363a6dab8832a.setContent(html_dd189e0721794950aa5c61cc6d475edb);
+        
+
+        circle_marker_4b090f93fbaf4b208736d29cfb70b999.bindPopup(popup_5033e5584d0d4542b8f363a6dab8832a)
+        ;
+
+        
+    
+    
+            var feature_group_49343fd197584939ba8dea91be60da98 = L.featureGroup(
+                {}
+            ).addTo(map_c69c0edc5eed4bcfa35e20e3641683c2);
+        
+    
+            var circle_marker_e46a885f6b26475ab523cb927162c4fe = L.circleMarker(
+                [48.3794327, 31.1655807],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(feature_group_49343fd197584939ba8dea91be60da98);
+        
+    
+        var popup_724ce718474a467b932c6a8e6963f386 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3af87678907a4a378b1e1db406547f6d = $(`<div id="html_3af87678907a4a378b1e1db406547f6d" style="width: 100.0%; height: 100.0%;">Your location</div>`)[0];
+            popup_724ce718474a467b932c6a8e6963f386.setContent(html_3af87678907a4a378b1e1db406547f6d);
+        
+
+        circle_marker_e46a885f6b26475ab523cb927162c4fe.bindPopup(popup_724ce718474a467b932c6a8e6963f386)
+        ;
+
+        
+    
+    
+            var layer_control_2a96f28f10094bffac0719b46f563cf1 = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_c80e377c919946819888023c00bef78f,
+                },
+                overlays :  {
+                    "Films near you" : feature_group_8af7242aaa4340c59f18d216f8083dfd,
+                    "Top 5 biggest cities in the world" : feature_group_f352db4da9b145a089c4420acfcbec43,
+                    "Your location" : feature_group_49343fd197584939ba8dea91be60da98,
+                },
+            };
+            L.control.layers(
+                layer_control_2a96f28f10094bffac0719b46f563cf1.base_layers,
+                layer_control_2a96f28f10094bffac0719b46f563cf1.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_c69c0edc5eed4bcfa35e20e3641683c2);
+        
+</script>
