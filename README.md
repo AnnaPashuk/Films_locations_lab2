@@ -6,7 +6,8 @@ This module films_locations.py returns a map with three layers:
 3)	5 biggest cities in the world
 The user must write the year of films he/she wants to see and coordinates: latitude and longitude.
 ### Requirements
-You need to install folium, math and geopy
+You need to install folium, math and geopy.
+In order to make the module work faster, you should better use smaller file with locations "loc.txt"
 
  
 ### HTML file structure
