@@ -5,9 +5,13 @@ This module films_locations.py returns a map with three layers:
 2)	Films which were filmed near you
 3)	5 biggest cities in the world
 The user must write the year of films he/she wants to see and coordinates: latitude and longitude.
+### Requirements
+You need to install folium, math and geopy
 
  
-### HTML tags
+### HTML file structure
+HTML file is devided onthree main parts: head, body and script.
+
 <!DOCTYPE html> defines html type of document 
 <head> defines information about document
 <script> defines the script and links of document
